@@ -3,6 +3,14 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
 The project based on Build your first Angular app tutorial (https://angular.dev/tutorials/first-app)
+Home Page
+(public/images/homepage.jpg)
+Home Detail
+(public/images/homedetails.jpg)
+Home filter by city
+(public/images/homefilterbycity.jpg)
+
+
 
 ## Development server
 
