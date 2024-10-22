@@ -3,12 +3,15 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
 The project based on Build your first Angular app tutorial (https://angular.dev/tutorials/first-app)
-Home Page
-(public/images/homepage.jpg)
-Home Detail
-(public/images/homedetails.jpg)
-Home filter by city
-(public/images/homefilterbycity.jpg)
+Screenshot of Home Page 
+![homepage](https://github.com/user-attachments/assets/a82264d0-0322-423f-981a-309100990f69)
+
+Screenshot of Home Detail
+![homedetails](https://github.com/user-attachments/assets/2e389960-0928-4f44-a76e-3d82b1f344a9)
+
+Screenshot Home filter by city
+
+![homefilterbycity](https://github.com/user-attachments/assets/ac3f9019-e5c3-499f-9ef1-d3dbf345d66d)
 
 
 
